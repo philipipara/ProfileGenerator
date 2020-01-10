@@ -1,6 +1,8 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
 const axios = require("axios");
+//const pdf = require("pdf");
+const generateHTML = require("./generateHTML");
 
 inquirer
   .prompt([
