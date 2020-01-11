@@ -1,12 +1,19 @@
 {
-  "name": "HW9",
+  "name": "profilegenerator",
   "version": "1.0.0",
-  "description": "",
+  "description": "An app that will take a users github info and make a pdf profile",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philipipara/ProfileGenerator.git"
+  },
+  "author": "Philip Iparaguirre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philipipara/ProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/philipipara/ProfileGenerator#readme"
 }
